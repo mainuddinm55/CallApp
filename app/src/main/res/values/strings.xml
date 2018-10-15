@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CallApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_call_screen">CallScreenActivity</string>
+    <string name="caller_name_text">Caller Name</string>
+    <string name="receiver_name_text">Receiver Name</string>
+    <string name="login_text">Login</string>
+</resources>
